@@ -43,8 +43,6 @@
 
 ![snake gif](https://github.com/Sarthakjanrao07/sarthak-janrao/blob/output/github-contribution-grid-snake-dark.svg)
 
-![snake gif](https://github.com/Sarthakjanrao07/sarthak-janrao/blob/output/github-contribution-grid-snake-dark.svg)
-
 <br><br>
 
 <!--📏LINE-->
