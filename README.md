@@ -5,7 +5,11 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
+<<<<<<< HEAD
 <a href="https://github.com/adinathmahangare/adinathmahangare">
+=======
+<a href="https://github.com/Sarthakjanrao07/sarthakjanrao">
+>>>>>>> 139e49f2701ee942b81ad862a75c4fe8f396c08c
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Slide2.PNG">
     <img alt="Andrew Grant's GitHub Profile README" src="Slide1.PNG">
@@ -14,6 +18,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<<<<<<< HEAD
 <h3 align="center"> ☁️ DevOps Engineer | 🔒 MERN Developer | 🚀 Machine Learning Enthusiast </h3>
 <p align = "Center">Eager to learn and embrace emerging technologies to build efficient and impactful solutions.</p>
 <p align="center">
@@ -22,6 +27,16 @@
 <a href="https://x.com/adimahangare" target="_blank"><img src="https://img.shields.io/twitter/follow/adimahangare" alt="Twitter"></a>
 <a href="https://open.spotify.com/user/83gdkl8s76ryshcbdx4hda60g?si=yx2onNgbR1-n1lqBTEhIxQ" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://portfolio-adinath.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+=======
+<h3 align="center"> ☁️ Software Development Aspirant | 🔒 Full Stack Developer | 🚀 AI & Machine Learning Enthusiast </h3>
+<p align = "Center">Eager to learn and embrace emerging technologies to build efficient and impactful solutions.</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/sarthak-janrao/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/Sarthakjanrav07/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<!-- <a href="https://x.com/adimahangare" target="_blank"><img src="https://img.shields.io/twitter/follow/adimahangare" alt="Twitter"></a> -->
+<!-- <a href="https://open.spotify.com/user/83gdkl8s76ryshcbdx4hda60g?si=yx2onNgbR1-n1lqBTEhIxQ" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a> -->
+<a href="https://portfolio-zeta-pearl-57.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+>>>>>>> 139e49f2701ee942b81ad862a75c4fe8f396c08c
   
 <!--<a href="https://twitter.com/adimahangare" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@adimahangare" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/adinath-mahangare-0b211b1b8/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/adinath-mahangare-0b211b1b8" height="30" width="40" /></a>
@@ -31,7 +46,11 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## snake eating my contribution graph
+<<<<<<< HEAD
 ![snake gif](https://github.com/adinathmahangare/adinathmahangare/blob/output/github-contribution-grid-snake-dark.svg)
+=======
+![snake gif](https://github.com/Sarthakjanrao07/sarthak-janrao/blob/output/github-contribution-grid-snake-dark.svg)
+>>>>>>> 139e49f2701ee942b81ad862a75c4fe8f396c08c
 <br><br>
 
 <!--📏LINE-->
@@ -65,9 +84,15 @@
 
 <h3 align="left">Now Plying</h3>
 <div align="center">
+<<<<<<< HEAD
   <a href="https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG?si=qn3fxdP-Qiu-KW5vPbe-Ew">
     <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify">
   </a>
+=======
+<!--   <a href="https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG?si=qn3fxdP-Qiu-KW5vPbe-Ew">
+    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify">
+  </a> -->
+>>>>>>> 139e49f2701ee942b81ad862a75c4fe8f396c08c
 </div>
 
 
