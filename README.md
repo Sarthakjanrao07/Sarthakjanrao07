@@ -14,15 +14,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="center"> ☁️ Software Development Engineer Aspirant | 🔒 Full Stack Developer | 🚀 AI & Machine Learning Enthusiast </h3>
-<p align = "Center">Eager to learn and embrace emerging technologies to build efficient and impactful solutions.</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/sarthak-janrao/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/Sarthakjanrao07/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<!-- <a href="https://x.com/adimahangare" target="_blank"><img src="https://img.shields.io/twitter/follow/adimahangare" alt="Twitter"></a> -->
-<!-- <a href="https://open.spotify.com/user/83gdkl8s76ryshcbdx4hda60g?si=yx2onNgbR1-n1lqBTEhIxQ" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a> -->
-<a href="https://portfolio-zeta-pearl-57.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-
 <h3 align="center"> ☁️ Software Development Aspirant | 🔒 Full Stack Developer | 🚀 AI & Machine Learning Enthusiast </h3>
 <p align = "Center">Eager to learn and embrace emerging technologies to build efficient and impactful solutions.</p>
 <p align="center">
