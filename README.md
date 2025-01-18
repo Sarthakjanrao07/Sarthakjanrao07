@@ -65,9 +65,9 @@
 
 <h3 align="left">Now Plying</h3>
 <div align="center">
-  <a href="https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG?si=qn3fxdP-Qiu-KW5vPbe-Ew">
+<!--   <a href="https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG?si=qn3fxdP-Qiu-KW5vPbe-Ew">
     <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify">
-  </a>
+  </a> -->
 </div>
 
 
