@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<a href="https://github.com/Sarthakjanrao07/sarthakjanrao">
+<a href="https://github.com/Sarthakjanrao07/Sarthakjanrao07">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Slide2.PNG">
     <img alt="Andrew Grant's GitHub Profile README" src="Slide1.PNG">
@@ -41,7 +41,7 @@
 
 ## snake eating my contribution graph
 
-![snake gif](https://github.com/Sarthakjanrao07/sarthak-janrao/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Sarthakjanrao07/Sarthakjanrao07/blob/output/github-contribution-grid-snake-dark.svg)
 <br><br>
 
 <!--📏LINE-->
