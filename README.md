@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<a href="https://github.com/Sarthakjanrao07/Sarthakjanrao07">
+<a href="https://github.com/Sarthakjanrao07/Sarthakjanrao07"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Slide2.PNG">
     <img alt="Andrew Grant's GitHub Profile README" src="Slide1.PNG">
