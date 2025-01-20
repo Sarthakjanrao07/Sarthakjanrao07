@@ -1,4 +1,4 @@
-# My Portfolio
+<h1 align="center">My Portfolio</h1>
 <p align="center">
   <a href="https://portfolio-zeta-pearl-57.vercel.app/">Sarthak Janrao</a>
 </p>
