@@ -1,6 +1,7 @@
 # My Portfolio
-
-                                   Click here :: [Sarthak Janrao](https://portfolio-zeta-pearl-57.vercel.app/)
+<p align="center">
+  <a href="https://portfolio-zeta-pearl-57.vercel.app/">Sarthak Janrao</a>
+</p>
 
 <!--MasterHead-->
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
