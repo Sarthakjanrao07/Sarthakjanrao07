@@ -1,95 +1,89 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Portfolio</title>
-</head>
-<body>
-  <h1 align="center">My Portfolio</h1>
-  <p align="center">
-    <a href="https://portfolio-zeta-pearl-57.vercel.app/">Sarthak Janrao</a>
-  </p>
+<h1 align="center">My Portfolio</h1>
+<p align="center">
+  <a href="https://portfolio-zeta-pearl-57.vercel.app/">Sarthak Janrao</a>
+</p>
 
-  <!-- MasterHead -->
-  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead">
+<!--MasterHead-->
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-  <div align="center">
-    <a href="#" onclick="toggleImage(event)">
-      <img id="imageToggle" alt="Sarthak Janrao's Portfolio Slide" src="Slide1.PNG">
-    </a>
-  </div>
 
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<a href="https://github.com/Sarthakjanrao07/Sarthakjanrao07"> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Slide2.PNG">
+    <img alt="Andrew Grant's GitHub Profile README" src="Slide1.PNG">
+  </picture>
+</a>
 
-  <h3 align="center"> ☁️ Software Development Aspirant | 🔒 Full Stack Developer | 🚀 AI & Machine Learning Enthusiast </h3>
-  <p align="center">Eager to learn and embrace emerging technologies to build efficient and impactful solutions.</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/sarthak-janrao/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/Sarthakjanrav07/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://portfolio-zeta-pearl-57.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-  </p>
+<h3 align="center"> ☁️ Software Development Aspirant | 🔒 Full Stack Developer | 🚀 AI & Machine Learning Enthusiast </h3>
+<p align = "Center">Eager to learn and embrace emerging technologies to build efficient and impactful solutions.</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/sarthak-janrao/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/Sarthakjanrav07/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<!-- <a href="https://x.com/adimahangare" target="_blank"><img src="https://img.shields.io/twitter/follow/adimahangare" alt="Twitter"></a> -->
+<!-- <a href="https://open.spotify.com/user/83gdkl8s76ryshcbdx4hda60g?si=yx2onNgbR1-n1lqBTEhIxQ" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a> -->
+<a href="https://portfolio-zeta-pearl-57.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+  
+<!--<a href="https://twitter.com/adimahangare" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@adimahangare" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adinath-mahangare-0b211b1b8/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/adinath-mahangare-0b211b1b8" height="30" width="40" /></a>
+<a href="https://www.instagram.com/adinathm7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_ad.914" height="30" width="40" /></a></p>-->
 
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-  <!-- Snake Eating My Contribution Graph -->
-  <h3 align="center">Snake Eating My Contribution Graph</h3>
-  <img src="https://github.com/Sarthakjanrao07/Sarthakjanrao07/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake graph">
+## snake eating my contribution graph
 
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+![snake gif](https://github.com/Sarthakjanrao07/Sarthakjanrao07/blob/output/github-contribution-grid-snake-dark.svg)
+<br><br>
 
-  <!-- Languages and Tools -->
-  <h3 align="left">Languages and Tools</h3>
-  <p align="center">
-    <img src="./assets/c.png" width="60">
-    <img src="./assets/cpp.png" width="60">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="60">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="60">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60">
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
-    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="60">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="60">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="60">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="60">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="60">
-  </p>
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!--Languages and Tools-->
+<h3 align="left">Languages and Tools</h3>
+<p align="center">
+<img src="./assets/c.png" width="60">
+<img src="./assets/cpp.png" width="60">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="60"> 
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="60">
+   
+</p>
 
-  <h3 align="left">Now Playing</h3>
-  <div align="center">
-    <a href="https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG?si=qn3fxdP-Qiu-KW5vPbe-Ew">
-      <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify">
-    </a>
-  </div>
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-  <script>
-    // Function to toggle between the two images
-    function toggleImage(event) {
-      // Prevent the default link behavior
-      event.preventDefault();
+<h3 align="left">Now Plying</h3>
+<div align="center">
 
-      // Get the image element
-      const image = document.getElementById("imageToggle");
+  <a href="https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG?si=qn3fxdP-Qiu-KW5vPbe-Ew">
+    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify">
+  </a>
 
-      // Check the current image source and toggle it
-      let currentSrc = image.src;
+<!--   <a href="https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG?si=qn3fxdP-Qiu-KW5vPbe-Ew">
+    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify">
+  </a> -->
 
-      if (currentSrc.includes("Slide1.PNG")) {
-        image.src = "Slide2.PNG";  // Change to Slide2.PNG
-      } else {
-        image.src = "Slide1.PNG";  // Revert to Slide1.PNG
-      }
-    }
-  </script>
-</body>
-</html>
+</div>
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<!--Connect with me-->
+
