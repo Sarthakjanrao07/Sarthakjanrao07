@@ -76,10 +76,13 @@
   // Function to toggle between the two images
   function toggleImage() {
     const image = document.getElementById("imageToggle");
-    if (image.src.includes("Slide1.PNG")) {
-      image.src = "Slide2.PNG";
+    let currentSrc = image.src;
+
+    // Handle image toggle by checking full URL and changing it
+    if (currentSrc.includes("Slide1.PNG")) {
+      image.src = "Slide2.PNG";  // Change to Slide2.PNG
     } else {
-      image.src = "Slide1.PNG";
+      image.src = "Slide1.PNG";  // Revert to Slide1.PNG
     }
   }
 </script>
