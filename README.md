@@ -7,13 +7,15 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- 📏 LINE -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- Onclick functionality -->
 <div align="center">
-  <a href="https://github.com/Sarthakjanrao07/Sarthakjanrao07">
-    <img id="imageToggle" alt="Sarthak Janrao's Portfolio Slide" src="Slide1.PNG" onclick="toggleImage()">
+  <a href="#" onclick="toggleImage(event)">
+    <img id="imageToggle" alt="Sarthak Janrao's Portfolio Slide" src="Slide1.PNG">
   </a>
 </div>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -68,20 +70,20 @@
   </a>
 </div>
 
-<!-- 📏 LINE -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- JavaScript -->
+
 <script>
   // Function to toggle between the two images
-  function toggleImage() {
+  function toggleImage(event) {
+    // Prevent the default link behavior (which navigates to GitHub)
+    event.preventDefault();
+
+    // Get the image element
     const image = document.getElementById("imageToggle");
+
+    // Check the current image source and toggle it
     let currentSrc = image.src;
 
-    // Log the current source to the console to see what's being checked
-    console.log("Current image source: " + currentSrc);
-
-    // Handle image toggle by checking the full URL and changing it
     if (currentSrc.includes("Slide1.PNG")) {
       image.src = "Slide2.PNG";  // Change to Slide2.PNG
     } else {
