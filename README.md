@@ -78,7 +78,10 @@
     const image = document.getElementById("imageToggle");
     let currentSrc = image.src;
 
-    // Handle image toggle by checking full URL and changing it
+    // Log the current source to the console to see what's being checked
+    console.log("Current image source: " + currentSrc);
+
+    // Handle image toggle by checking the full URL and changing it
     if (currentSrc.includes("Slide1.PNG")) {
       image.src = "Slide2.PNG";  // Change to Slide2.PNG
     } else {
